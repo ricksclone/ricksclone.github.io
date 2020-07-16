@@ -1,1 +1,1 @@
-# ricksclone.github.io
+# ricksclone.github.io developer diary
